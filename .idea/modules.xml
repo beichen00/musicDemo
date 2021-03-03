@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jwt-demo/jwt-demo.iml" filepath="$PROJECT_DIR$/jwt-demo/jwt-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt-shiro/jwt-shiro.iml" filepath="$PROJECT_DIR$/jwt-shiro/jwt-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music/music.iml" filepath="$PROJECT_DIR$/music/music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nginxdemo/nginxdemo.iml" filepath="$PROJECT_DIR$/nginxdemo/nginxdemo.iml" />
+    </modules>
+  </component>
+</project>
